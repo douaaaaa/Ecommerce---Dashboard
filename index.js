@@ -205,13 +205,6 @@ addButtons.forEach((i) => {
 }); 
 
 document.querySelector(".cart button").addEventListener("click", () => {
-    // let submitList = document.querySelectorAll(".cart .toBuy .obj"); 
-    // for (let a = 0; a < submitList.length; a++) {
-    //     submitList[a].remove(); 
-    // }
-    // subTotalCalculator();
-    // totalCalculator();
-    // EmptyOrNot2(); 
     location. reload()
 });
 
