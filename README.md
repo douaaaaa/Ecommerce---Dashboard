@@ -18,5 +18,5 @@ This project does not include specific steps to got it run. <br />
 Just visit this link: https://douaaaaa.github.io/Ecommerce---Dashboard/
 
 # Credits
-* You can find the original design here: https://dribbble.com/shots/7970756/attachments/522112?mode=media
+* The original design: https://dribbble.com/shots/7970756/attachments/522112?mode=media
 * Icons pack: https://fontawesome.com/icons
