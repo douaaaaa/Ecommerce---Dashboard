@@ -13,10 +13,6 @@ This E-commerce website is responsive with all device sizes. Also, it can do sev
 * In the right side, there is a cart section. It intends to help the users choose the quantity of any selected item and also gives them the ability to remove it. At the bottom, you will find a bill which will calculate the total price of all the products. 
 * A Sign up and a Log in form. 
 
-# Getting Started
-This project does not include specific steps to got it run. <br /> 
-Just visit this link: https://douaaaaa.github.io/Ecommerce---Dashboard/
-
 # Credits
 * The original design: https://dribbble.com/shots/7970756/attachments/522112?mode=media
 * Icons pack: https://fontawesome.com/icons
